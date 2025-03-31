@@ -1,0 +1,2 @@
+# sysfetch
+Neofetch but tiny
